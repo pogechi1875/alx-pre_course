@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this is my first project on git
+Keep your files upto date 
 =======
-My first project
->>>>>>> 51cda950742800777a52fc5b383ac50c5b0c255f
+Keep your files upto date
+>>>>>>> 
